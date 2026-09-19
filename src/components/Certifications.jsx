@@ -29,6 +29,7 @@ export default function Certifications() {
             <span className="cert-issuer">{cert.issuer}</span>
             <h3 className="cert-name">{cert.name}</h3>
             {cert.badge && <span className="cert-badge-tag">{cert.badge}</span>}
+            {cert.description && <p className="cert-desc">{cert.description}</p>}
             <span className="cert-date">{cert.date}</span>
           </div>
         ))}

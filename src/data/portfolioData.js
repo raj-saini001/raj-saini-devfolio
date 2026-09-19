@@ -20,7 +20,7 @@ I specialize in building end-to-end web applications using modern JavaScript/Typ
   email: "rajsaini9727@gmail.com",
   github: "https://github.com/raj-saini001",
   linkedin: "https://www.linkedin.com/in/raj-saini-166236326?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-  resumeUrl: "#", // Placeholder: add direct link to PDF resume if desired
+  resumeUrl: "/Raj_Saini_Resume.pdf",
   stats: [
     { num: "15+", label: "Completed Projects" },
     { num: "16+", label: "Core Tech Skills" },
@@ -185,99 +185,106 @@ export const educationData = [
 
 export const experienceData = [
   {
-    period: "2024 – Present",
-    role: "Full Stack Project Developer",
-    org: "Vijay Shree Resort Management Project",
-    badge: "Featured Project",
+    period: "July 2026 – September 2026",
+    role: "Frontend Developer Intern",
+    org: "Syntecxhub Tech",
+    badge: "Internship",
     description:
-      "Architected and developed the complete resort booking and management web platform from scratch. Designed relational database schemas in MySQL, built Express backend endpoints, and created a sleek, responsive React user interface.",
+      "Engineered responsive user interface components and modular web views using JavaScript (ES6+), HTML5, and modern CSS/Tailwind, ensuring cross-device compatibility and optimized client-side performance.",
   },
   {
-    period: "2023 – Present",
-    role: "Computer Science & Engineering Student",
-    org: "Mandsaur University",
-    badge: "Academic",
+    period: "July 2026",
+    role: "Freelance Full-Stack Web Developer",
+    org: "Vijay Shree Complex and Resort",
+    badge: "Freelance",
     description:
-      "Actively pursuing core CSE degree coursework, participating in coding workshops, project exhibitions, and continuously engineering software solutions using C, Python, JavaScript, and database systems.",
+      "Developed end-to-end full-stack web solutions for resort booking operations, integrating dynamic React frontends with Express.js RESTful API services and MySQL database persistence.",
   },
   {
-    period: "2024 – 2025",
-    role: "Full Stack & Web Developer Trainee",
-    org: "Self-Directed Practical Learning & Open Source",
-    badge: "Continuous Learning",
+    period: "June 2026",
+    role: "Freelance Web Developer",
+    org: "Vijay Shree Complex and Resort",
+    badge: "Freelance",
     description:
-      "Completed rigorous online training tracks across Infosys Springboard, mastering Python programming fundamentals, modern JavaScript ES6+, React component lifecycles, and RESTful API integrations with Postman.",
+      "Designed and structured the core resort web presence, crafting responsive service showcase layouts, room preview pages, and interactive UI elements with HTML5, CSS3, and JavaScript.",
   },
   {
-    period: "2023 – 2024",
-    role: "Foundational Programming & Algorithms",
-    org: "Academic Project Labs — Mandsaur University",
-    badge: "Fundamentals",
+    period: "May 2024 – August 2024",
+    role: "Frontend Developer Intern",
+    org: "Cognify Tech",
+    badge: "Internship",
     description:
-      "Developed command-line utility tools and algorithm implementations in C and Python, mastering data structures, memory allocation concepts, and algorithmic complexity analysis.",
+      "Collaborated on frontend development tasks, translating wireframes into clean, accessible web pages and implementing mobile-friendly styles with semantic HTML, CSS, and basic DOM scripting.",
   },
 ];
 
 export const achievementsData = [
   {
-    icon: "🏆",
-    title: "Featured Project Showcase",
-    org: "Vijay Shree Resort Management System",
-    detail: "Developed full-stack reservation & room management system presented as a flagship university project.",
-    date: "2024 – 2025",
+    icon: "⚡",
+    title: "GirlsScript Summer of Code",
+    org: "Open Source Contribution",
+    detail:
+      "Contributed to open-source software repositories during the nationwide program, collaborating with project maintainers via Git/GitHub to resolve codebase issues and implement feature enhancements.",
+    date: "May 2026",
   },
   {
-    icon: "💻",
-    title: "Coding & Problem Solving",
-    org: "CSE Department — Mandsaur University",
-    detail: "Active participant in departmental programming contests and algorithmic challenges in C & Python.",
-    date: "2023 – Present",
-  },
-  {
-    icon: "📜",
-    title: "Certified Python Developer",
-    org: "Infosys Springboard",
-    detail: "Completed certified Python Foundation and Basics of Python technical assessments with distinction.",
-    date: "2024",
+    icon: "☁️",
+    title: "Google Cloud Arcade",
+    org: "Trooper Tier",
+    detail:
+      "Attained the Trooper Tier milestone by completing hands-on Google Cloud challenge labs and skill badges covering core cloud infrastructure, security, and computing services.",
+    date: "2025",
   },
 ];
 
 export const certificationsData = [
   {
-    issuer: "Infosys Springboard",
+    issuer: "Cisco",
+    name: "Networking Basics",
+    date: "2026",
+    badge: "Verified Certificate",
+    description:
+      "Fundamental principles of computer networks, covering IP addressing, network protocols, subnetting, TCP/IP & OSI architecture, and basic router/switch operations.",
+  },
+  {
+    issuer: "Thrive(s)UP × Mandsaur University",
+    name: "Java: OOPJ",
+    date: "2025",
+    badge: "Verified Certificate",
+    description:
+      "Object-Oriented Programming in Java, emphasizing core OOP principles including encapsulation, inheritance, polymorphism, abstraction, and class hierarchies.",
+  },
+  {
+    issuer: "Udemy",
+    name: "Git & GitHub: The Practical Guide",
+    date: "June 2025",
+    badge: "Verified Certificate",
+    description:
+      "Hands-on distributed version control workflows, branching and merging strategies, pull requests, resolving merge conflicts, and team collaboration via GitHub.",
+  },
+  {
+    issuer: "Coursera",
+    name: "Introduction to Generative AI",
+    date: "2025",
+    badge: "Verified Certificate",
+    description:
+      "Core fundamentals of generative artificial intelligence, large language models (LLMs), attention mechanisms, prompting techniques, and real-world AI applications.",
+  },
+  {
+    issuer: "Infosys",
     name: "Python Foundation",
-    date: "Certified 2024",
+    date: "2024",
     badge: "Verified Certificate",
+    description:
+      "Comprehensive Python programming foundation, including built-in data types, control flow structures, custom functions, modular scripting, and standard libraries.",
   },
   {
-    issuer: "Infosys Springboard",
+    issuer: "Infosys",
     name: "Basics of Python",
-    date: "Certified 2024",
+    date: "2024",
     badge: "Verified Certificate",
-  },
-  {
-    issuer: "Self-Paced / Academic Track",
-    name: "Full Stack Web Development (React & Node.js)",
-    date: "2024",
-    badge: "Specialization",
-  },
-  {
-    issuer: "Database Learning Track",
-    name: "Relational Database Design with MySQL",
-    date: "2024",
-    badge: "Database Mastery",
-  },
-  {
-    issuer: "Version Control Track",
-    name: "Git & GitHub for Collaborative Engineering",
-    date: "2024",
-    badge: "Developer Tooling",
-  },
-  {
-    issuer: "API Engineering Track",
-    name: "RESTful API Design & Testing with Postman",
-    date: "2024",
-    badge: "Backend & Testing",
+    description:
+      "Foundational programming logic in Python, covering variables, operators, conditional statements, iterative loops, lists, dictionaries, and error handling.",
   },
 ];
 
@@ -287,13 +294,17 @@ export const marqueeItems = [
   "Express.js",
   "MySQL",
   "MongoDB",
+  "Networking Basics — Cisco",
+  "Java: OOPJ — Thrive(s)UP",
+  "Google Cloud Arcade — Trooper Tier",
+  "GirlsScript Summer of Code",
+  "Introduction to Generative AI",
+  "Git & GitHub — Udemy",
   "Python Foundation — Infosys",
   "Basics of Python — Infosys",
-  "Vijay Shree Resort Management",
-  "Tailwind CSS",
   "JavaScript ES6+",
+  "Tailwind CSS",
   "REST APIs",
-  "Git & GitHub",
   "Postman",
   "C Programming",
   "Full Stack Architecture",

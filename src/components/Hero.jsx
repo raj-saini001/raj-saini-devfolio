@@ -29,6 +29,16 @@ export default function Hero() {
           <a href="#projects" className="btn-red">
             View Projects ↗
           </a>
+          <a
+            href={personalInfo.resumeUrl}
+            download="Raj_Saini_Resume.pdf"
+            className="btn-outline"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Download Raj Saini Resume PDF"
+          >
+            Download Resume ↓
+          </a>
           <a href="#contact" className="btn-outline">
             Get In Touch ↗
           </a>

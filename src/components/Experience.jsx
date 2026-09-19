@@ -18,7 +18,7 @@ export default function Experience() {
               <div className="exp-org">{item.org}</div>
               {item.description && <p className="exp-desc">{item.description}</p>}
             </div>
-            <span className="exp-badge">{item.badge}</span>
+            {item.badge && <span className="exp-badge">{item.badge}</span>}
           </div>
         ))}
       </div>

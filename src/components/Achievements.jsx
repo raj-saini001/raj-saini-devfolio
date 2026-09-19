@@ -14,8 +14,8 @@ export default function Achievements() {
           <div key={idx} className="award-card reveal">
             <div className="award-icon">{item.icon}</div>
             <h3 className="award-title">{item.title}</h3>
-            <div className="award-org">{item.org}</div>
-            <p className="award-detail">{item.detail}</p>
+            {item.org && <div className="award-org">{item.org}</div>}
+            {item.detail && <p className="award-detail">{item.detail}</p>}
             <div className="award-date">{item.date}</div>
           </div>
         ))}
