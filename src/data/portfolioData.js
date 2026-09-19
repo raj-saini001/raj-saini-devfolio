@@ -17,9 +17,9 @@ I specialize in building end-to-end web applications using modern JavaScript/Typ
   degree: "B.Tech in Computer Science & Engineering",
   graduationYear: "2023 – 2027",
   location: "Mandsaur, Madhya Pradesh, India",
-  email: "rajsaini.dev@example.com", // Placeholder: update with your personal email
-  github: "https://github.com/placeholder-rajsaini", // Placeholder: update with your GitHub URL
-  linkedin: "https://linkedin.com/in/placeholder-rajsaini", // Placeholder: update with your LinkedIn URL
+  email: "rajsaini9727@gmail.com",
+  github: "https://github.com/raj-saini001",
+  linkedin: "https://www.linkedin.com/in/raj-saini-166236326?utm_source=share_via&utm_content=profile&utm_medium=member_android",
   resumeUrl: "#", // Placeholder: add direct link to PDF resume if desired
   stats: [
     { num: "15+", label: "Completed Projects" },
