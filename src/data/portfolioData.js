@@ -14,17 +14,17 @@ export const personalInfo = {
   
 I specialize in building end-to-end web applications using modern JavaScript/TypeScript, React, Node.js, Express, and both SQL (MySQL) and NoSQL (MongoDB) databases. Always excited to learn cutting-edge tools, contribute to impactful projects, and craft seamless digital experiences.`,
   university: "Mandsaur University",
-  degree: "B.Tech in Computer Science & Engineering",
-  graduationYear: "2023 – 2027",
+  degree: "B.Tech in Computer Science & Engineering (AI)",
+  graduationYear: "2024 – 2028",
   location: "Mandsaur, Madhya Pradesh, India",
   email: "rajsaini9727@gmail.com",
   github: "https://github.com/raj-saini001",
   linkedin: "https://www.linkedin.com/in/raj-saini-166236326?utm_source=share_via&utm_content=profile&utm_medium=member_android",
   resumeUrl: "/Raj_Saini_Resume.pdf",
   stats: [
-    { num: "15+", label: "Completed Projects" },
-    { num: "16+", label: "Core Tech Skills" },
-    { num: "2+", label: "Infosys Certifications" },
+    { num: "4+", label: "Completed Projects" },
+    { num: "18+", label: "Core Tech Skills" },
+    { num: "6+", label: "Verified Certifications" },
     { num: "100%", label: "Dedication to Code" },
   ],
   focusTags: [
@@ -155,31 +155,31 @@ export const projectsData = [
 
 export const educationData = [
   {
-    period: "2023 – 2027",
-    tag: "Degree Program",
-    institution: "MANDSAUR UNIVERSITY",
-    degree: "B.Tech in Computer Science and Engineering",
+    period: "Graduation / B.Tech · 2024 – 2028",
+    tag: "Graduation",
+    institution: "Mandsaur University, Mandsaur",
+    degree: "B.Tech in Computer Science & Engineering (AI)",
     description:
-      "Focusing on computer science fundamentals including Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks.",
-    highlight: "Student | Full Stack Developer",
+      "Currently pursuing B.Tech in Computer Science & Engineering with an Artificial Intelligence specialization. Focusing on foundational computer science principles, intelligent systems, data structures, and modern software development.",
+    highlight: "CGPA: 7.2 · Currently Pursuing",
   },
   {
-    period: "CORE CURRICULUM",
-    tag: "Technical Focus",
-    institution: "DATABASE & SYSTEM ARCHITECTURE",
-    degree: "Relational (MySQL) & Document (MongoDB) Databases",
+    period: "Higher Secondary · Passing Year: 2024",
+    tag: "Higher Secondary",
+    institution: "Govt. Boys H. S. School, Pipliya Mandi",
+    degree: "Senior Secondary (Class XII) · Stream: PCM",
     description:
-      "In-depth coursework and hands-on laboratory implementation of normalization, indexing, transaction management, REST API principles, and modern web application development.",
-    highlight: "MySQL · MongoDB · Express.js",
+      "Completed higher secondary education in the Science stream with Physics, Chemistry, and Mathematics (PCM). Built strong analytical, quantitative reasoning, and scientific problem-solving fundamentals.",
+    highlight: "Percentage: 73.6%  ",
   },
   {
-    period: "PRACTICAL LABS",
-    tag: "Engineering Skills",
-    institution: "FULL STACK WEB DEVELOPMENT",
-    degree: "React, Node.js & Modern Web Technologies",
+    period: "High School · Passing Year: 2022",
+    tag: "High School",
+    institution: "Sharda Education Academy H. S. School, Pipliya Mandi",
+    degree: "Secondary School (Class X)",
     description:
-      "Active development of real-world projects, building responsive frontends with React and Tailwind CSS, backend routing with Express, and version-controlled Git workflows.",
-    highlight: "React · Node.js · Tailwind CSS",
+      "Completed foundational secondary school education covering mathematics, science, and general academics, demonstrating consistent scholastic performance across core subjects.",
+    highlight: "Percentage: 80% ",
   },
 ];
 
