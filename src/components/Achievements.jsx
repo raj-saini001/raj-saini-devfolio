@@ -12,7 +12,18 @@ export default function Achievements() {
       <div className="awards-grid">
         {achievementsData.map((item, idx) => (
           <div key={idx} className="award-card reveal">
-            <div className="award-icon">{item.icon}</div>
+            <div className="award-icon">
+              {item.logo ? (
+                <img
+                  src={item.logo}
+                  alt={`${item.title} logo`}
+                  className="award-logo-img"
+                  loading="lazy"
+                />
+              ) : (
+                item.icon
+              )}
+            </div>
             <h3 className="award-title">{item.title}</h3>
             {item.org && <div className="award-org">{item.org}</div>}
             {item.detail && <p className="award-detail">{item.detail}</p>}

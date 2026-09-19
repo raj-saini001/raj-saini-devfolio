@@ -220,6 +220,7 @@ export const experienceData = [
 
 export const achievementsData = [
   {
+    logo: "/assets/gssoc.png",
     icon: "⚡",
     title: "GirlsScript Summer of Code",
     org: "Open Source Contribution",
@@ -228,6 +229,7 @@ export const achievementsData = [
     date: "May 2026",
   },
   {
+    logo: "/assets/arcade.png",
     icon: "☁️",
     title: "Google Cloud Arcade",
     org: "Trooper Tier",

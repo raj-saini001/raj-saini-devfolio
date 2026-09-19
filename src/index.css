@@ -1219,6 +1219,15 @@ section {
 .award-icon {
   font-size: 2rem;
   margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+}
+
+.award-logo-img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  display: block;
 }
 
 .award-title {
